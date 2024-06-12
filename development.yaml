@@ -126,7 +126,7 @@ Parameters:
   ContainerPort:
     Description: Port for Docker host and container
     Type: Number
-    Default: 80
+    Default: 8501
 
 Mappings:
   # Cloudfront Mappings
